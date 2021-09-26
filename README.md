@@ -1,1 +1,1 @@
-# flappy-witch-P1
+# canvas_flappywitch
